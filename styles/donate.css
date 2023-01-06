@@ -250,3 +250,19 @@ hr{
     padding: 15px 20px;
     height: 15px;
 }
+.done-it-completely{
+    background-color: rgb(5, 5, 39);
+    color:rgb(189, 61, 123);
+    text-align: center;
+    height: 200px;
+}
+.humble p{
+    padding: 30px;
+    color: whitesmoke;
+}
+.humble h1{
+    padding: 15px;
+    font-family: 'Moon Dance', cursive;
+    font-weight: 900;
+    font-size: 50px;
+}
