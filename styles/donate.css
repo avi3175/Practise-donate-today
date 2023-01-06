@@ -201,21 +201,52 @@ hr{
     margin-left: 100px;
     margin-right: 100px;
     gap: 100px;
-    margin-bottom: 80px;
+    margin-bottom: 100px;
 }
 .get-my-update{
     text-align: center;
-}.update{
-    font-size: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.update{
+    font-size: 50px;
     color: rgb(17, 17, 17);
     margin-bottom: 15px;
 }
 .para-update-one{
-    font-size: 20px;
+    font-size: 25px;
     color: grey;
 }
 .para-update{
-    font-size: 20px;
+    font-size: 25px;
     color: grey;
     margin-bottom: 50px;
+}
+
+.complete{
+    background-color: burlywood;
+    width: 700px;
+    height:150px;
+    margin-left: 320px;
+    margin-bottom: 150px;
+}
+.done{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 160px;
+}
+.ultimate-para input{
+    width: 200px;
+    height: 35px;
+    border-radius: 5px;
+}
+.ultimate-para-submit{
+    background-color: rgb(197, 92, 110);
+    color: whitesmoke ;
+    font-size: 23px;
+    font-weight: 450;
+    border-radius: 5px;
+    padding: 15px 20px;
+    height: 15px;
 }
