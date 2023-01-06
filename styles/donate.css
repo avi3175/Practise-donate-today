@@ -201,5 +201,21 @@ hr{
     margin-left: 100px;
     margin-right: 100px;
     gap: 100px;
-    margin-bottom: 30px;
+    margin-bottom: 80px;
+}
+.get-my-update{
+    text-align: center;
+}.update{
+    font-size: 40px;
+    color: rgb(17, 17, 17);
+    margin-bottom: 15px;
+}
+.para-update-one{
+    font-size: 20px;
+    color: grey;
+}
+.para-update{
+    font-size: 20px;
+    color: grey;
+    margin-bottom: 50px;
 }
