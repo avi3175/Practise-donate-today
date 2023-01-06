@@ -80,7 +80,7 @@
     margin-top: 40px;
 }
 .btn-primary-again{
-    background-color: rgb(167, 19, 51);
+    background-color: rgb(197, 92, 110);
     color: whitesmoke ;
     font-size: 23px;
     font-weight: 450;
@@ -96,4 +96,110 @@ hr{
 }
 .get-the-primary-button-center{
     text-align: center;
+    margin-bottom: 130px;
+}
+.food-family-shelter-donation{
+    text-align: center;
+}
+.para-three{
+    font-size: 40px;
+    color: rgb(34, 32, 32);
+}
+.para-three-again{
+    color: rgb(65, 58, 58);
+    font-size: 20px;
+}
+.para-three-again-and-again{
+    color: rgb(65, 58, 58);
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+/* FOOD FAMILY AND SHELTER FLEX */
+
+.food-family-shelter-flex{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.family{
+    background-color: rgb(201, 223, 220);
+    border-radius: 5px;
+    height: 300px;
+    width: 500px;
+}
+.shelter{
+    background-color:pink;
+    border-radius: 5px;
+    height: 300px;
+    width: 500px;
+}
+.education{
+    background-color: rgb(252, 252, 177);
+    border-radius: 5px;
+    height: 300px;
+    width: 500px ;
+}
+.common-status{
+    margin-top: 40px;
+    margin-left: 15px;
+}
+.size{
+    font-size: 24px;
+}
+.para-size{
+    font-size: 20px;
+}
+.special-para{
+    margin-top: 20px;
+}
+.food-family-shelter{
+    margin-bottom: 100px;
+}
+
+/* THEIR LIFE DEPENDS ON OUR DONATION STYLE */
+
+.charity{
+    
+    width: 450px;
+    height: 450px;
+}
+.charity-image{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+.their-life-depends-on-your-donation{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    gap: 100px;
+    margin-bottom: 30px;
+}
+.charity-banner{
+    font-size:45px;
+    color: rgb(27, 26, 26);
+}
+.charity-banner-one{
+    font-size:45px;
+    color: rgb(27, 26, 26);
+    margin-bottom: 15px;
+}
+.charity-work{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.charity-work-one{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.they-need-us-to-survive{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    gap: 100px;
+    margin-bottom: 30px;
 }
