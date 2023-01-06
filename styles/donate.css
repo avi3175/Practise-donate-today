@@ -36,3 +36,64 @@
     border-radius: 5px;
     padding: 15px 20px;
 }
+.money-donate{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+}
+.second-para-one{
+    color:grey;
+    text-align: center;
+}
+.second-para-2{
+    color:grey;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.other-amount{
+    text-align: center;
+    color: rgb(85, 73, 73);
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+.taka{
+    color:grey;
+    font-size: 35px;
+    font-weight: 650;
+    display: flex;
+    justify-content:center;
+    gap: 50px;
+    margin-bottom: 70px;
+}
+#two-hundred-taka{
+    background-color: pink;
+    border: 1px solid rebeccapurple;
+    border-radius: 5px;
+    height:125px;
+    width: 125px;
+    text-align: center;
+}
+#value-of-two-hundred-taka{
+    margin-top: 40px;
+}
+.normal-taka{
+    margin-top: 40px;
+}
+.btn-primary-again{
+    background-color: rgb(167, 19, 51);
+    color: whitesmoke ;
+    font-size: 23px;
+    font-weight: 450;
+    border-radius: 5px;
+    padding: 15px 20px;
+}
+hr{
+    width: 700px;
+    text-align: center;
+    margin-left: 320px;
+    margin-bottom: 30px;
+    color: rgb(236, 227, 227);
+}
+.get-the-primary-button-center{
+    text-align: center;
+}
